@@ -1,3 +1,5 @@
+package main.java;
+
 public class TaskNum1 implements Runnable {
     private final WC WC;
 
